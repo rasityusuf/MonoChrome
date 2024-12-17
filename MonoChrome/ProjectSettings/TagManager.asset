@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Backgorund
+  - Player
+  - Ground
+  - Decor
+  - Enemy
+  - 'Room Top '
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2103931917
+    locked: 0
+  - name: Enemy
+    uniqueID: 3639826859
+    locked: 0
+  - name: Player
+    uniqueID: 3580518467
+    locked: 0
+  - name: Ground
+    uniqueID: 2278996495
+    locked: 0
+  - name: Decor
+    uniqueID: 174544785
+    locked: 0
+  - name: Room Top
+    uniqueID: 531488157
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 1563715381
+    locked: 0
+  m_RenderingLayers:
+  - Default
